@@ -1,0 +1,40 @@
+Chris Pitts 
+Stephanie Landin 
+Cpitts@atgusa.com 
+Slandin@atgusa.com
+12/16/2019
+
+1. Text Length!!
+2. Whole Number
+3. 4
+4. =E7<=TODAY()
+5. 48
+6. 84
+7. 19
+8. 22649
+9. 11325!!
+10. 26537
+11. 70!!
+12. 6!!	
+13. 3
+14. c27
+15. 25119
+16. 10435!!
+17. 7
+18. N10
+19. 95
+20. 407.30
+21. munchies
+22. 96.16
+23. unlock these cells
+24. file>Info>Protect Workbook> Encrypt with password!!!!
+25. True!! false
+26. A
+27.
+28. Right click the button>Assign Macro
+29. Developer>Macros>Delete
+Open the VBA Editor and delete the code
+
+=AND($G7="GB",$I7="New")
+
+

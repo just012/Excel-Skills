@@ -1,0 +1,28 @@
+powermill-2020.2-release-highlights-webinar-recording-en
+powermill-2020.2-whats-new-presentation-en
+
+PowerMill 2020.2 Release Highlights Deck
+
+PowerMill 2020.2 Release Highlights Webinar
+Maya 2020 Display Banners (EN) 
+Arnold 6 Display Banners (EN)
+Maya 2020 Social Kit (EN)
+Arnold 6 Social Kit (EN) 
+FeatureCAM to Fusion 360: Packaging Changes
+
+I upload all assests to  https://share.autodesk.com/:f:/r/sites/marketlinglocalization/AEC/AEC%20EMEA/CAMS-1675%20Q4FY20%20PFC%20AEC%20LATAM/Target/Brazilian?csf=1&e=t5dgsM
+Fro all the English Assets names and DAM link, please refer to Master Assets.xlsx
+
+ Fabiane Amorim <fabiane.amorim@autodesk.com> / fedra.cedano@autodesk.com
+
+Fabiane Amorim, Fedra Cedano
+MELHORES RESULTADOS DE NEGÓCIOS COM O BIMWHITE PAPER
+MELHORES RESULTADOS DE NEGÓCIOS COM O BIM
+
+MODERNIZANDO PROJETOS DE INFRAESTRUTURA CIVIL COM O BIM
+
+FLUXO DE TRABALHO BIM PARA PROJETOS CIVIS. COMO E POR QUE ADOTAR O BIM PARA PROJETOS DE INFRAESTRUTURA
+
+DAM:29+6
+OTS staging: 7
+DAM Account Termination: 12

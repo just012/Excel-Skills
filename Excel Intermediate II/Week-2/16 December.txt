@@ -1,0 +1,23 @@
+AEC Collection Land Development Brochure-ko.zip
+AEC Collection Land Development Brochure-zh-cn.zip
+AEC Collection Roads Highways Brochure-ko.zip
+AEC Collection Roads Highways Brochure-zh-cn.zip
+aec-collection-2020-architecture-brochure-ko.zip
+aec-collection-2020-architecture-brochure-zh-cn.zip
+aec-collection-2020-mep-brochure-ko.zip
+aec-collection-2020-mep-brochure-zh-cn.zip
+aec-collection-2020-structural-engineering-brochure-ko.zip
+aec-collection-2020-structural-engineering-brochure-zh-cn.zip
+
+aec-collection-land-development-brochure-ko.zip
+aec-collection-land-development-brochure-zh-cn.zip
+aec-collection-roads-highways-brochure-ko.zip
+aec-collection-roads-highways-brochure-zh-cn.zip
+aec-collection-2020-architecture-brochure-ko.zip
+aec-collection-2020-architecture-brochure-zh-cn.zip
+aec-collection-2020-mep-brochure-ko.zip
+aec-collection-2020-mep-brochure-zh-cn.zip
+aec-collection-2020-structural-engineering-brochure-ko.zip
+aec-collection-2020-structural-engineering-brochure-zh-cn.zip
+
+A 2021 badges. Package contains "album cover" badges sized 256px, 1024px, and 2048px in JPG format.
